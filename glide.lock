@@ -1,0 +1,6 @@
+hash: a05a4130710a49520ed80f954307d140767e49f63b76f4b7e4ec5fa18ffe1cd9
+updated: 2020-03-06T21:50:13.847116786-06:00
+imports:
+- name: github.com/gocolly/colly
+  version: 811f2f4533d1f686fcf1a1eb516da5db3200ca60
+testImports: []
